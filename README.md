@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @KT-3620 ですよろしく
-I'm a student who makes Apps.
+- I'm a student who makes Apps.
 - なんとなくアプリ作ってる学生です
 
 ### 👀 I’m interested in ...
