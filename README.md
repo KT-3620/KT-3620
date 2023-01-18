@@ -1,18 +1,16 @@
-- 👋 Hi, I’m @KT-3620
+- 👋 Hi, I’m @KT-3620 ですよろしく
+I'm a student who makes Apps.
+なんとなくアプリ作ってる学生です
+
 - 👀 I’m interested in ...
-Swift / Minecraft-Commands
+Swift / Minecraft-Commands / Discord.js
+Discord Bot作りにハマってます
+裏ではマイクラ配布ワールド作ってる変な奴
+
 - 🌱 I’m currently learning ...
-Swift
+Swift / Javascript
+Discord.js書くために調べに調べて頑張ってる
+
 - 📫 How to reach me ...
 kt.app.support@icloud.com
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-
-
-
-
-
-KT-3620/KT-3620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
