@@ -15,6 +15,8 @@
 - kt.app.support@icloud.com
 
 ## 🙏 Download Pls
-### 自作ミニゲーム集（Switch Minigames）
+#### Switch Minigames
+##### Original Minigames 自作ミニゲーム集
+###### (Available on App Store)
 - https://apps.apple.com/jp/app/switch-minigames/id1638337685
 
