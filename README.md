@@ -16,7 +16,7 @@
 
 ## 🙏 Download Pls
 #### Switch Minigames
-##### Original Minigames 自作ミニゲーム集
-###### (Available on App Store)
+Original Minigames 自作ミニゲーム集
+ (App Store)
 - https://apps.apple.com/jp/app/switch-minigames/id1638337685
 
