@@ -3,13 +3,12 @@
 - なんとなくアプリ作ってる学生です
 
 ## 👀 I’m interested in ...
-- Swift / Minecraft-Commands / Discord.js
+- Swift / Minecraft-Commands / Node.js
 - Discord Bot作りにハマってます
 - 裏ではマイクラ配布ワールド作ってる変な奴
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KT-3620&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-3620&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 I’m currently learning ...
 - Swift / Javascript
