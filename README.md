@@ -7,9 +7,6 @@
 - Discord Bot作りにハマってます
 - 裏ではマイクラ配布ワールド作ってる変な奴
 
-### Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KT-3620&show_icons=true&count_private=true&theme=radical)
-
 ## 🌱 I’m currently learning ...
 - Swift / Javascript
 - Discord.js書くために調べに調べて頑張ってる
