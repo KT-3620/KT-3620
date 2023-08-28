@@ -1,15 +1,15 @@
 ## 👋 Hi, I’m @KT-3620 ですよろしく
-- I'm a student who makes Apps.
-- なんとなくアプリ作ってる学生です
+- I'm a student who makes Apps and Websites.
+- なんとなくアプリとかWebとか作ってる学生です
 
 ## 👀 I’m interested in ...
-- Swift / Minecraft-Commands / Node.js
-- Discord Bot作りにハマってます
-- 裏ではマイクラ配布ワールド作ってる変な奴
+- Swift / Minecraft-Commands / Node.js / Vue 3
+- 今めっちゃWebサイト作りにハマってます
+- 裏ではDiscordのBotとかを作ってる変な奴
 
 ## 🌱 I’m currently learning ...
-- Swift / Javascript
-- Discord.js書くために調べに調べて頑張ってる
+- Vue 3 / CSS
+- 全力で学習中書けるように...
 
 ## 📫 How to reach me ...
 - kt.app.support@icloud.com
