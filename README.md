@@ -20,5 +20,5 @@ Original Minigames 自作ミニゲーム集
  (App Store)
 - https://apps.apple.com/jp/app/switch-minigames/id1638337685
 
-![KT's GitHub stats](https://github-readme-stats.vercel.app/api?username=KT-3620&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-3620&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![KT's GitHub stats](https://prof-api.vercel.app/api?username=KT-3620&count_private=true)
+[![Top Langs](https://prof-api.vercel.app/api/top-langs/?username=KT-3620&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
