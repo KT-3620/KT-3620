@@ -19,3 +19,5 @@
 Original Minigames 自作ミニゲーム集
  (App Store)
 - https://apps.apple.com/jp/app/switch-minigames/id1638337685
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KT-3620&count_private=true)
