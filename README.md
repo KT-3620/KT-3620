@@ -4,12 +4,10 @@
 
 ## 👀 I’m interested in ...
 - Swift / Minecraft-Commands / Node.js / Vue 3
-- 今めっちゃWebサイト作りにハマってます
-- 裏ではDiscordのBotとかを作ってる変な奴
+- TypeScriptの学習を始めています
 
 ## 🌱 I’m currently learning ...
-- Vue 3 / CSS
-- 全力で学習中...
+- Vue 3 / Nuxt 3 / TypeScript
 
 ## 📫 How to reach me ...
 - kt.app.support@icloud.com
