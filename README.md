@@ -12,11 +12,5 @@
 ## 📫 How to reach me ...
 - kt.app.support@icloud.com
 
-## 🙏 Download Pls
-#### Switch Minigames
-Original Minigames 自作ミニゲーム集
- (App Store)
-- https://apps.apple.com/jp/app/switch-minigames/id1638337685
-
 ![KT's GitHub stats](https://prof-api.vercel.app/api?username=KT-3620&count_private=true)
 [![Top Langs](https://prof-api.vercel.app/api/top-langs/?username=KT-3620&count_private=true&exclude_repo=prof-api&hide=C%2B%2B,CMake)](https://github.com/anuraghazra/github-readme-stats)
