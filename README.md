@@ -11,6 +11,3 @@
 
 ## 📫 How to reach me ...
 - kt.app.support@icloud.com
-
-![KT's GitHub stats](https://prof-api.vercel.app/api?username=KT-3620&count_private=true)
-[![Top Langs](https://prof-api.vercel.app/api/top-langs/?username=KT-3620&count_private=true&exclude_repo=prof-api&hide=C%2B%2B,CMake)](https://github.com/anuraghazra/github-readme-stats)
